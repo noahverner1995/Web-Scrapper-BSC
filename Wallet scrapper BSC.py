@@ -48,6 +48,7 @@ def tester(mejora):
 
 tester(a)
 
+#print the variable type of each header and
 #print the dataframe with an specific condition set upon the data of the Txn Count
 print(df.dtypes)
 print(df[(df['Txn Count']>200.0) & (df['Txn Count']<1000.0)])
