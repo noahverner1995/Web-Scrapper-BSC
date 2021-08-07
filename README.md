@@ -1,5 +1,5 @@
 # Web-Scrapper-BSC
-Here's a simple Python program that takes the current first Top 100 Wallets by BNB balance from BscScan.com and filters them depending on their Txn Count value, for then exporting them as a dataframe in a csv file.
+Here's a simple Python program that takes the current first Top 100 Wallets by BNB balance from **BscScan** and filters them depending on their Txn Count value, for then exporting them as a dataframe in a csv file.
 
 # Usefulness 
 If you are new to web scrapping and Python, this project will give you a good idea of how the data from a website is called, filtered, and then exported as a csv file, all thanks to BeautifulSoup, Requests, and Pandas libraries.
